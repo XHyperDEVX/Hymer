@@ -1,3 +1,1 @@
-# Hymer
-Ein Timer mit einstellbaren Aktionen am Ende
-by XHyperDEVX
+ALTES PROJEKT!!!! Neues Projekt mit Updates : https://github.com/XHyperDEVX/Hymer
